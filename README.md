@@ -28,7 +28,7 @@ Seeking job opportunities to grow, learn from mentors, and contribute to meaning
 📫 **Let's Connect!**<br>
 Open to collaborations and job opportunities. Reach out to chat about tech or potential projects.
 
-🙏 A special thanks to my wonderful partner for their constant support and motivation.
+🙏 A special thanks to my wonderful partner and my family for their constant support and motivation.
 
 🌌 Let's build an exciting tech future together!
 

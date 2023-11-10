@@ -14,7 +14,7 @@
 Driven by curiosity and a thirst for knowledge, always seeking innovation and continuous improvement.
 
 🛠️ **Skills**<br>
-Proficient in Python, JavaScript, React, Node.js, SQL, and more. Constantly learning and adapting.
+Proficient JavaScript, React, Node.js, SQL, NextJS and more. Constantly learning and adapting.
 
 🌟 **Projects**<br>
 Experienced in diverse projects, from web apps to automation solutions, always growing and refining skills.

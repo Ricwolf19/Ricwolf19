@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ricwolf19.Ricwolf19" />
+<!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ricwolf19.Ricwolf19" /> -->
 
 <h1 align="center">
   
